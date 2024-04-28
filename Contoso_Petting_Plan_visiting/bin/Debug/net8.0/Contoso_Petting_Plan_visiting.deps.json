@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Contoso_Petting_Plan_visiting/1.0.0": {
+        "runtime": {
+          "Contoso_Petting_Plan_visiting.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Contoso_Petting_Plan_visiting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

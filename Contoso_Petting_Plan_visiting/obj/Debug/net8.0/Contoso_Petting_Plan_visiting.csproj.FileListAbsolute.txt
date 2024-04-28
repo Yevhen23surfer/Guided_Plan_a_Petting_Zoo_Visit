@@ -1,0 +1,15 @@
+/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/Guided_Plan_a_Petting_Zoo_Visit/Contoso_Petting_Plan_visiting/bin/Debug/net8.0/Contoso_Petting_Plan_visiting
+/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/Guided_Plan_a_Petting_Zoo_Visit/Contoso_Petting_Plan_visiting/bin/Debug/net8.0/Contoso_Petting_Plan_visiting.deps.json
+/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/Guided_Plan_a_Petting_Zoo_Visit/Contoso_Petting_Plan_visiting/bin/Debug/net8.0/Contoso_Petting_Plan_visiting.runtimeconfig.json
+/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/Guided_Plan_a_Petting_Zoo_Visit/Contoso_Petting_Plan_visiting/bin/Debug/net8.0/Contoso_Petting_Plan_visiting.dll
+/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/Guided_Plan_a_Petting_Zoo_Visit/Contoso_Petting_Plan_visiting/bin/Debug/net8.0/Contoso_Petting_Plan_visiting.pdb
+/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/Guided_Plan_a_Petting_Zoo_Visit/Contoso_Petting_Plan_visiting/obj/Debug/net8.0/Contoso_Petting_Plan_visiting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/Guided_Plan_a_Petting_Zoo_Visit/Contoso_Petting_Plan_visiting/obj/Debug/net8.0/Contoso_Petting_Plan_visiting.AssemblyInfoInputs.cache
+/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/Guided_Plan_a_Petting_Zoo_Visit/Contoso_Petting_Plan_visiting/obj/Debug/net8.0/Contoso_Petting_Plan_visiting.AssemblyInfo.cs
+/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/Guided_Plan_a_Petting_Zoo_Visit/Contoso_Petting_Plan_visiting/obj/Debug/net8.0/Contoso_Petting_Plan_visiting.csproj.CoreCompileInputs.cache
+/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/Guided_Plan_a_Petting_Zoo_Visit/Contoso_Petting_Plan_visiting/obj/Debug/net8.0/Contoso_Petting_Plan_visiting.sourcelink.json
+/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/Guided_Plan_a_Petting_Zoo_Visit/Contoso_Petting_Plan_visiting/obj/Debug/net8.0/Contoso_Petting_Plan_visiting.dll
+/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/Guided_Plan_a_Petting_Zoo_Visit/Contoso_Petting_Plan_visiting/obj/Debug/net8.0/refint/Contoso_Petting_Plan_visiting.dll
+/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/Guided_Plan_a_Petting_Zoo_Visit/Contoso_Petting_Plan_visiting/obj/Debug/net8.0/Contoso_Petting_Plan_visiting.pdb
+/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/Guided_Plan_a_Petting_Zoo_Visit/Contoso_Petting_Plan_visiting/obj/Debug/net8.0/Contoso_Petting_Plan_visiting.genruntimeconfig.cache
+/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/Guided_Plan_a_Petting_Zoo_Visit/Contoso_Petting_Plan_visiting/obj/Debug/net8.0/ref/Contoso_Petting_Plan_visiting.dll
