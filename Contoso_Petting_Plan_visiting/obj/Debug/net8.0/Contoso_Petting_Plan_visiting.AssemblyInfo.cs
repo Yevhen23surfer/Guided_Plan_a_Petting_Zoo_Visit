@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Contoso_Petting_Plan_visiting")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb60a3e8273d77b16f2159e6536933387c009a79")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f4326604d05aac47926b2832fc539ad648de4e1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Contoso_Petting_Plan_visiting")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Contoso_Petting_Plan_visiting")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
